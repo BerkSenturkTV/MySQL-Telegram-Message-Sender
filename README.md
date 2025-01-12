@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 # Telegram Message Sending Script
 
@@ -58,4 +58,4 @@ This project is licensed under the MIT License.
 =======
 # MySQL-Telegram-Message-Sender
 A Python-based tool designed to automate the process of sending personalized messages to users via Telegram. It integrates seamlessly with a MySQL database to retrieve user details and provides detailed reporting for successful and failed message deliveries. 
->>>>>>> b979c0b438082292005f1df213eab22d82d1ead0
+
