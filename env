@@ -1,0 +1,8 @@
+
+DB_HOST=your-database-host
+DB_PORT=3306
+DB_USER=your-database-username
+DB_PASSWORD=your-database-password
+DB_NAME=your-database-name
+TELEGRAM_TOKEN=your-telegram-bot-token
+ADMIN_CHAT_ID=your-admin-chat-id
